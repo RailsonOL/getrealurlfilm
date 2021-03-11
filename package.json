@@ -8,10 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "chrome-aws-lambda": "^7.0.0",
-    "http-status-codes": "^2.1.4",
     "next": "10.0.7",
-    "puppeteer": "^7.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
